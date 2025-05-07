@@ -13,4 +13,3 @@ The predictions of debris movement are subsequently visualize and the results do
 [![written-report-toc](/imgs/written-report-toc-preview.png)](written_report/HW_Module5_Evan_Woods.pdf)
 
 Click the image above to view the full written report.
-
