@@ -10,7 +10,7 @@
 **/**.pt
 !OceanFlow.zip
 !written-report-toc-preview.png
-**/**.gif
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
