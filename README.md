@@ -1,6 +1,6 @@
 # Flow Field Simulation
 
-![Flow Field Simulation Animation](https://flow-field-simulation-gh-s3.s3.amazonaws.com/output.gif)
+![Flow Field Simulation Animation](/imgs/output.gif)
 
 This is a study of simulating particle movement through the ocean currents of the Philippine Archipelago. 
 The results are obtained using a **squared-exponential kernel function** to calculate the conditional distribution based upon a set of real-world flow velocities. 
