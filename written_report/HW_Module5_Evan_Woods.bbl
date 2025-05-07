@@ -1,0 +1,206 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{BEA_AF447}{report}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=496e9435cb1b9187d14ad4b4118ef239}{%
+           family={(BEA)},
+           familyi={(\bibinitperiod},
+           given={Bureau},
+           giveni={B\bibinitperiod},
+           givenun=0,
+           prefix={d'Enquêtes\bibnamedelimb et\bibnamedelima d'Analyses},
+           prefixi={d\bibinitperiod\bibinitdelim e\bibinitperiod\bibinitdelim d\bibinitperiod},
+           prefixun=0}}%
+      }
+      \list{institution}{1}{%
+        {Bureau d'Enquêtes et d'Analyses pour la sécurité de l'aviation civile}%
+      }
+      \strng{namehash}{496e9435cb1b9187d14ad4b4118ef239}
+      \strng{fullhash}{496e9435cb1b9187d14ad4b4118ef239}
+      \strng{bibnamehash}{496e9435cb1b9187d14ad4b4118ef239}
+      \strng{authorbibnamehash}{496e9435cb1b9187d14ad4b4118ef239}
+      \strng{authornamehash}{496e9435cb1b9187d14ad4b4118ef239}
+      \strng{authorfullhash}{496e9435cb1b9187d14ad4b4118ef239}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Final Report on the accident on 1st June 2009 to the Airbus A330-203 registered F-GZCP operated by Air France flight AF 447 Rio de Janeiro – Paris}
+      \field{type}{techreport}
+      \field{year}{2012}
+      \verb{urlraw}
+      \verb https://www.faa.gov/sites/faa.gov/files/AirFrance447_BEA.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.faa.gov/sites/faa.gov/files/AirFrance447_BEA.pdf
+      \endverb
+    \endentry
+    \entry{MH17_report}{report}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e4547ac192e35e236a00fdf2f72ed617}{%
+           family={Board},
+           familyi={B\bibinitperiod},
+           given={Dutch\bibnamedelima Safety},
+           giveni={D\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Dutch Safety Board}%
+      }
+      \strng{namehash}{e4547ac192e35e236a00fdf2f72ed617}
+      \strng{fullhash}{e4547ac192e35e236a00fdf2f72ed617}
+      \strng{bibnamehash}{e4547ac192e35e236a00fdf2f72ed617}
+      \strng{authorbibnamehash}{e4547ac192e35e236a00fdf2f72ed617}
+      \strng{authornamehash}{e4547ac192e35e236a00fdf2f72ed617}
+      \strng{authorfullhash}{e4547ac192e35e236a00fdf2f72ed617}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Crash of Malaysia Airlines flight MH17: Final Report}
+      \field{type}{techreport}
+      \field{year}{2015}
+      \verb{urlraw}
+      \verb https://onderzoeksraad.nl/wp-content/uploads/2023/11/debcd724fe7breport_mh17_crash.pdf
+      \endverb
+      \verb{url}
+      \verb https://onderzoeksraad.nl/wp-content/uploads/2023/11/debcd724fe7breport_mh17_crash.pdf
+      \endverb
+    \endentry
+    \entry{nhess-16-1623-2016}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=46349478743b0bd5fc459d2a7f7411a2}{%
+           family={Jansen},
+           familyi={J\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dee01c80e62d1a802b7f8cc5a9b47124}{%
+           family={Coppini},
+           familyi={C\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3fc1bab343b23c9f7116a515b8356fb4}{%
+           family={Pinardi},
+           familyi={P\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a5f7df6bc3360e0da255ff1f54686ce2}
+      \strng{fullhash}{a5f7df6bc3360e0da255ff1f54686ce2}
+      \strng{bibnamehash}{a5f7df6bc3360e0da255ff1f54686ce2}
+      \strng{authorbibnamehash}{a5f7df6bc3360e0da255ff1f54686ce2}
+      \strng{authornamehash}{a5f7df6bc3360e0da255ff1f54686ce2}
+      \strng{authorfullhash}{a5f7df6bc3360e0da255ff1f54686ce2}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Natural Hazards and Earth System Sciences}
+      \field{number}{7}
+      \field{title}{Drift simulation of MH370 debris using superensemble techniques}
+      \field{volume}{16}
+      \field{year}{2016}
+      \field{pages}{1623\bibrangedash 1628}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.5194/nhess-16-1623-2016
+      \endverb
+      \verb{urlraw}
+      \verb https://nhess.copernicus.org/articles/16/1623/2016/
+      \endverb
+      \verb{url}
+      \verb https://nhess.copernicus.org/articles/16/1623/2016/
+      \endverb
+    \endentry
+    \entry{NOAA_drift_modeling}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=9737159f93202ce3dadca511817a02ae}{%
+           family={Oceanic},
+           familyi={O\bibinitperiod},
+           given={National},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=736594cdacd9610c069e3358968ae917}{%
+           family={(NOAA)},
+           familyi={(\bibinitperiod},
+           given={Atmospheric\bibnamedelima Administration},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c3f9e11eabbd2e0d72a2a4c941098a3a}
+      \strng{fullhash}{c3f9e11eabbd2e0d72a2a4c941098a3a}
+      \strng{bibnamehash}{c3f9e11eabbd2e0d72a2a4c941098a3a}
+      \strng{authorbibnamehash}{c3f9e11eabbd2e0d72a2a4c941098a3a}
+      \strng{authornamehash}{c3f9e11eabbd2e0d72a2a4c941098a3a}
+      \strng{authorfullhash}{c3f9e11eabbd2e0d72a2a4c941098a3a}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{NOAA Marine Debris Program}
+      \field{title}{Modeling Oceanic Transport of Floating Marine Debris}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://marinedebris.noaa.gov/modeling-and-monitoring/modeling-oceanic-transport-floating-marine-debris
+      \endverb
+      \verb{url}
+      \verb https://marinedebris.noaa.gov/modeling-and-monitoring/modeling-oceanic-transport-floating-marine-debris
+      \endverb
+    \endentry
+    \entry{chatgpt2025}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a6623e933fc487ad19fdb4d68d8a4fc1}{%
+           family={{OpenAI ChatGPT}},
+           familyi={O\bibinitperiod}}}%
+      }
+      \strng{namehash}{a6623e933fc487ad19fdb4d68d8a4fc1}
+      \strng{fullhash}{a6623e933fc487ad19fdb4d68d8a4fc1}
+      \strng{bibnamehash}{a6623e933fc487ad19fdb4d68d8a4fc1}
+      \strng{authorbibnamehash}{a6623e933fc487ad19fdb4d68d8a4fc1}
+      \strng{authornamehash}{a6623e933fc487ad19fdb4d68d8a4fc1}
+      \strng{authorfullhash}{a6623e933fc487ad19fdb4d68d8a4fc1}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://chat.openai.com}}
+      \field{note}{Accessed via OpenAI ChatGPT. URL: \url{https://chat.openai.com}}
+      \field{title}{Assistance in deriving the mathematical equations, functions, and plots}
+      \field{year}{2025}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
